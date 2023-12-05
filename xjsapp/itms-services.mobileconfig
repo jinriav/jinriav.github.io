@@ -50,9 +50,9 @@
 如果手机设至了锁屏密码，需要输入密码后才能继续安装。
 </string>
 	<key>PayloadDisplayName</key>
-	<string>DAYAV视频永久版</string>
+	<string>今日AV永久版</string>
 	<key>PayloadIdentifier</key>
-	<string>DAYAV视频</string>
+	<string>今日AV</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
