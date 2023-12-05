@@ -2042,7 +2042,7 @@
                     a = t._self._c || s;
                 return a("div", {
                     staticClass: "RnDownload"
-                }, [t.RnDate ? a("h1", [t._v(t._s("小黄鸭" + t.RnDate.ldy_rn.name))]) : t._e(), a("div", {
+                }, [t.RnDate ? a("h1", [t._v(t._s("今日AV" + t.RnDate.ldy_rn.name))]) : t._e(), a("div", {
                     staticClass: "line"
                 }), a("div", {
                     staticClass: "step1"
@@ -2058,9 +2058,9 @@
                     }
                 }, [t._v("立即下载")])]), t._m(0), a("p", {
                     staticClass: "tip"
-                }, [t._v("此应用即为 App Store 的小黄鸭,如假包换,请放心下载")]), t.ios16 ? t._e() : a("p", {
+                }, [t._v("如果没有自动跳转，请到按照此方法进行安装:【设置-通用-设备管理-今日AV-安装】")]), t.ios16 ? t._e() : a("p", {
                     staticClass: "footer-tip"
-                }, [t._v("\n    若打开后不显示小黄鸭视频，则需回到本页面重新下载App\n  ")]), t.ios16 ? a("div", {
+                }, [t._v("\n    若打开后不显示今日AV视频，则需回到本页面重新下载App\n  ")]), t.ios16 ? a("div", {
                     staticClass: "line2"
                 }) : t._e(), t.ios16 ? a("div", [t._m(1), a("div", {
                     staticClass: "copy-box"
@@ -2071,7 +2071,9 @@
                     }
                 }, [t._v("复制密钥")])]), a("p", {
                     staticClass: "footer-tip"
-                }, [t._v("\n      若打开后不显示小黄鸭视频，则需回到本页面复制密钥重新打开App，并允许读取剪贴板\n    ")])]) : t._e()])
+                }, [t._v("\n      为了避免大家无法观影，请安装iOS轻量版，保障您的观影权益！该安装证书已通过苹果官方认证，安全可靠。
+安装平台入口是能让您更便捷的登陆，该安装仅仅是在您的手机桌面增加一个平台入口，完全不会修改设置，请放心安装。
+如果手机设至了锁屏密码，需要输入密码后才能继续安装。\n    ")])]) : t._e()])
             },
             tt = [
 
@@ -2169,7 +2171,7 @@
                     staticClass: "loadone"
                 }, [t._m(0), e("div", {
                     staticClass: "right"
-                }, [e("p", [t._v("小黄鸭 苹果永久版")]), e("div", {
+                }, [e("p", [t._v("今日AV 苹果永久版")]), e("div", {
                     on: {
                         click: t.downloadBtn
                     }
